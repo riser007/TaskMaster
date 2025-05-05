@@ -125,14 +125,3 @@ The base URL for all API endpoints is `/api`. Authentication is required for mos
 *   **Security:** Secure password hashing (BCrypt), JWT authentication, input validation.
 *   **Maintainability:** Uses DTOs, Service layer for business logic, interfaces for services.
 
-## Future Enhancements (Optional)
-
-*   Real-time notifications via WebSockets.
-*   Integration with Generative AI for task description generation.
-*   More granular roles and permissions within projects.
-*   Audit logging.
-*   Pagination for all list endpoints.
-*   Unit and Integration Tests.
-*   Cloud storage for attachments (AWS S3, etc.).
-*   Containerization using Docker.
-
